@@ -55,9 +55,9 @@ jupyter notebook DMProject.ipynb
 This study focuses on skins used by **top 12 teams** in **BLAST Open Spring 2025** and price data from a single off-season period (December 2024). Other external market factors are not considered.
 
 ## Credits
-**Developed by:** Adrian D Silva
-Email: adriansdsilva@gmail.com
-GitHub: [LeoSeeker526](https://github.com/LeoSeeker526)  
+- **Developed by:** Adrian D Silva
+- Email: adriansdsilva@gmail.com
+- GitHub: [LeoSeeker526](https://github.com/LeoSeeker526)  
 
 ## License
 This project is open-source and available under the MIT License. You are free to use, modify, and distribute it as long as proper credit is given.
